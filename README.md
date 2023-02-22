@@ -5,3 +5,6 @@
 
 ## 2. CSS
 - [BFC的特性及其常见应用](https://www.kancloud.cn/dunizb/web-dev-marrow/655633)
+
+## 3. JS
+- [图解<script>的defer / async与DOMContentLoaded / Load](https://juejin.cn/post/7027728332972113927)
