@@ -18,3 +18,4 @@
 ## 4. JS
 - [深入解析JSON.stringify和JSON.parse](https://www.cnblogs.com/konglxblog/p/16644951.html)
 - [JSON.stringify()和JSON.parse()不能转换RegExp的问题](https://juejin.cn/post/6847009771199938574)
+- [JavaScript精度丢失原因以及解决方案](https://segmentfault.com/a/1190000041941297)
