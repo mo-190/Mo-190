@@ -13,3 +13,8 @@
 - [带你玩转defer和async, dns-prefetch, prefetch, preload](https://juejin.cn/post/6844903650389655559)
 - [页面生命周期：DOMContentLoaded, load, beforeunload, unload解析](https://github.com/fi3ework/blog/issues/3)
 - [Web 性能优化：Preload与Prefetch的使用及在 Chrome 中的优先级](https://blog.fundebug.com/2019/04/11/understand-preload-and-prefetch/)
+
+
+## 2. JS
+- [深入解析JSON.stringify和JSON.parse](https://www.cnblogs.com/konglxblog/p/16644951.html)
+- [JSON.stringify()和JSON.parse()不能转换RegExp的问题](https://juejin.cn/post/6847009771199938574)
