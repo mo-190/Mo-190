@@ -21,3 +21,4 @@
 - [JSON.stringify()和JSON.parse()不能转换RegExp的问题](https://juejin.cn/post/6847009771199938574)
 - [JavaScript精度丢失原因以及解决方案](https://segmentfault.com/a/1190000041941297)
 - [compose函数](http://dennisgo.cn/Articles/JavaScript/ComposePipe.html)
+- [再来40道this面试题酸爽继续](https://juejin.cn/post/6844904083707396109)
