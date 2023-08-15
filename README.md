@@ -3,6 +3,7 @@
 - [HTTP缓存（Cache-Control、Expires 、ETag）](https://segmentfault.com/a/1190000016705679)
 - [TCP 三次握手与四次挥手面试题](https://xiaolincoding.com/network/3_tcp/tcp_interview.html#tcp-%E8%BF%9E%E6%8E%A5%E5%BB%BA%E7%AB%8B)
 - [漫画：如何给女朋友解释什么是反向代理？](https://blog.csdn.net/sinat_29039125/article/details/88050137)
+- [URL——处理url字符串拼接方法new URLSearchParams()和new URL()](https://www.cnblogs.com/7c89/p/16944603.html)
 
 
 ## 2. CSS
