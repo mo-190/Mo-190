@@ -23,3 +23,5 @@
 - [JavaScript精度丢失原因以及解决方案](https://segmentfault.com/a/1190000041941297)
 - [compose函数](http://dennisgo.cn/Articles/JavaScript/ComposePipe.html)
 - [再来40道this面试题酸爽继续](https://juejin.cn/post/6844904083707396109)
+- [前端加密JS库--CryptoJS 使用指南](https://www.liuxfe.com/blog/2018/09/1839)
+- [前端加密思考（AES+RSA）](https://juejin.cn/post/6844903986156273678)
