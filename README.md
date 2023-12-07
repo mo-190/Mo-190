@@ -26,4 +26,8 @@
 - [前端加密JS库--CryptoJS 使用指南](https://www.liuxfe.com/blog/2018/09/1839)
 - [前端加密思考（AES+RSA）](https://juejin.cn/post/6844903986156273678)
 - [利用指令实现对输入框千分位的处理](https://juejin.cn/post/6938079916399263758) 
-- [vue+axios使用crypto-js对参数加密](https://blog.csdn.net/u012138137/article/details/108004980) 
+- [vue+axios使用crypto-js对参数加密](https://blog.csdn.net/u012138137/article/details/108004980)
+
+
+## 5. TypeSctipt
+- [TS学习笔记](https://www.sakura-snow.com/%E5%89%8D%E7%AB%AF/TS/TS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
