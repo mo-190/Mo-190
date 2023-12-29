@@ -32,3 +32,4 @@
 ## 5. TypeSctipt
 - [TS学习笔记](https://www.sakura-snow.com/%E5%89%8D%E7%AB%AF/TS/TS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.cn/post/6844903749501059085)
+- [Typescript系列：unknown vs any](https://juejin.cn/post/7038156671553634312)
