@@ -28,6 +28,7 @@
 - [利用指令实现对输入框千分位的处理](https://juejin.cn/post/6938079916399263758) 
 - [vue+axios使用crypto-js对参数加密](https://blog.csdn.net/u012138137/article/details/108004980)
 - [ES6 -- 写单例模式](https://www.kancloud.cn/cyyspring/more/1317419)
+- [页面生命周期：DOMContentLoaded，load，beforeunload，unload](https://zh.javascript.info/onload-ondomcontentloaded)
 
 
 ## 5. TypeSctipt
