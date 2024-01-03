@@ -8,6 +8,7 @@
 
 ## 2. CSS
 - [BFC的特性及其常见应用](https://www.kancloud.cn/dunizb/web-dev-marrow/655633)
+- [带你彻底弄懂nth-of-type与nth-child的区别](https://zhuanlan.zhihu.com/p/126681521)
 
 
 ## 3. 渲染
