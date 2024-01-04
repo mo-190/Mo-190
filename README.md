@@ -36,3 +36,10 @@
 - [TS学习笔记](https://www.sakura-snow.com/%E5%89%8D%E7%AB%AF/TS/TS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.cn/post/6844903749501059085)
 - [Typescript系列：unknown vs any](https://juejin.cn/post/7038156671553634312)
+- [keyof 类型操作符](https://yayujs.com/handbook/KeyofTypeOperator.html#keyof-%E7%B1%BB%E5%9E%8B%E6%93%8D%E4%BD%9C%E7%AC%A6)
+
+
+
+
+
+
