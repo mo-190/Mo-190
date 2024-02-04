@@ -30,6 +30,7 @@
 - [vue+axios使用crypto-js对参数加密](https://blog.csdn.net/u012138137/article/details/108004980)
 - [ES6 -- 写单例模式](https://www.kancloud.cn/cyyspring/more/1317419)
 - [页面生命周期：DOMContentLoaded，load，beforeunload，unload](https://zh.javascript.info/onload-ondomcontentloaded)
+- [Object.freeze和Object.seal的区别](https://www.cnblogs.com/Hhhighway/p/14651999.html)
 
 
 ## 5. TypeSctipt
