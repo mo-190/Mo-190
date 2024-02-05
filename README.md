@@ -40,6 +40,11 @@
 - [keyof 类型操作符](https://yayujs.com/handbook/KeyofTypeOperator.html#keyof-%E7%B1%BB%E5%9E%8B%E6%93%8D%E4%BD%9C%E7%AC%A6)
 
 
+## 6. React
+- [什么是纯函数，纯函数在函数式编程中有什么作用？](https://juejin.cn/post/7217381222024544312)
+- [React Guidebook](https://tsejx.github.io/react-guidebook/foundation/main-concepts/overview)
+
+
 
 
 
